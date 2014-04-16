@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Erick legal
 
@@ -6,3 +7,7 @@ vou colocar aqui minhas stuff
 
 
 testando o role
+=======
+Erick bobão.
+vou colocar aqui minhas stuff
+>>>>>>> fa07ebd582ac1019d414266b9bcac28a3fd8ac97
