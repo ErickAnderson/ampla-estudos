@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-<<<<<<< HEAD
 
 
 
@@ -80,7 +78,7 @@ vou colocar aqui minhas stuff
 
 Comentei o/ - Bruno -
 
-=======
+
 Erick legal
 
 vou colocar aqui minhas stuff
@@ -88,8 +86,9 @@ vou colocar aqui minhas stuff
 
 
 testando o role
-=======
+
 Erick bobão.
 vou colocar aqui minhas stuff
->>>>>>> fa07ebd582ac1019d414266b9bcac28a3fd8ac97
->>>>>>> a815f341308e743e2b487ce3f9ece9299182db2b
+
+Aaaaai como yo estoy bandidita
+
